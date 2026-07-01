@@ -1,0 +1,99 @@
+canonical_identifier: bkk:krp/KR6i0522/v1
+canonical_location: https://kanripo.org/bkk/KR6i0522/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說道神足無極變化經
+  identifiers:
+    alt_id:
+    - T17n0816
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0816.xml
+    old_id: T17n0816
+  edition:
+    short: bkk
+editions:
+- short: 聖
+  label: 聖
+  source_xml_id: wit5
+- short: 宮
+  label: 宮
+  source_xml_id: wit4
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 磧-CB
+  label: 磧-CB
+  source_xml_id: wit8
+- short: 麗-CB
+  label: 麗-CB
+  source_xml_id: wit7
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0522_000.yaml, hash: 'sha256:aa5adc996946bafca0c0bebdda777db36b89e9eb691cfcee7340d241196b85f8'}
+  - {seq: 1, filename: KR6i0522_001.yaml, hash: 'sha256:b42f8d7460f57da9bb49260b363ed285e8b83d273f094b573e6c3d690286d816'}
+  - {seq: 2, filename: KR6i0522_002.yaml, hash: 'sha256:efce4175cf669345115407c7e7a18aab0feffb7c56070e764f7408a6a2335478'}
+  - {seq: 3, filename: KR6i0522_003.yaml, hash: 'sha256:c99e7a53e1632bc586b55a62635ed69a5718f8d9e6bde4f25e1afa1b816069f5'}
+  - {seq: 4, filename: KR6i0522_004.yaml, hash: 'sha256:a792920e84a0fd058098242c0ad86ffce0db9c4bfe4899d1f46260e74679ad72'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6i0522_001.markers.yaml, hash: 'sha256:c6af3f725aacb2b3a1df0952a14441faa922be0c0738939a68f1a4107dd84a60'}
+  - {seq: 2, role: markers, filename: assets/KR6i0522_002.markers.yaml, hash: 'sha256:1193ccef7d5015e8f38e5e41688a4e9a791e769a7f2df4d185c95f77cb5fd0e9'}
+  - {seq: 3, role: markers, filename: assets/KR6i0522_003.markers.yaml, hash: 'sha256:ddd74f59a6211afc1fe618358086704aee2934dfbc1d749a66c0c962510ffaac'}
+  - {seq: 4, role: markers, filename: assets/KR6i0522_004.markers.yaml, hash: 'sha256:10b0a5e0292c915e576e57b96deed189a00ab5f6b2ac8d88285fb0dbd0a7f7aa'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0522_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 5511
+  label: 佛說道神足無極變化經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0522_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 5220
+  label: 佛說道神足無極變化經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0522_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 5691
+  label: 佛說道神足無極變化經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0522_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 5600
+  label: 佛說道神足無極變化經卷第四
+  type: juan
+  level: 1
+hash: sha256:9335d6481ac62359a486824b77c28af1e2ade5d7555f9134c10edc72199ec311
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

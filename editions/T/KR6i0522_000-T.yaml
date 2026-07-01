@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0522/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說道神足無極變化經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0816.xml
+    old_id: T17n0816
+hash: sha256:aa5adc996946bafca0c0bebdda777db36b89e9eb691cfcee7340d241196b85f8
