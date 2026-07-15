@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0522/v1
 canonical_location: https://kanripo.org/bkk/KR6i0522/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說道神足無極變化經
   identifiers:
@@ -43,16 +43,16 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0522_000.yaml, hash: 'sha256:aa5adc996946bafca0c0bebdda777db36b89e9eb691cfcee7340d241196b85f8'}
-  - {seq: 1, filename: KR6i0522_001.yaml, hash: 'sha256:dd1f9eedb439c22bf6aebb931d0fc95d7f3a7c70646515b933a35e712a4d6ba1'}
-  - {seq: 2, filename: KR6i0522_002.yaml, hash: 'sha256:e4cec85e055d5e00ffa20a7a912552e8faa02730658df5b72866b8a9957a4470'}
-  - {seq: 3, filename: KR6i0522_003.yaml, hash: 'sha256:ee4272b169573c2312683df7ceaf395ea62948211e0ce337fa8073e2f9505e2a'}
-  - {seq: 4, filename: KR6i0522_004.yaml, hash: 'sha256:b733f6343a3ca40792080f3e9243ca6d36bbd2eec5702cb9acecdd69f5ea44b9'}
+  - {seq: 1, filename: KR6i0522_001.yaml, hash: 'sha256:6ac7dcc25b97df4242c418e731016b7b0c03792cdd787927d64a57d0e503c34a'}
+  - {seq: 2, filename: KR6i0522_002.yaml, hash: 'sha256:10069bebfda84730341fc77ababf352a6ce9a686d79a6f0d7d7bc5a2ea8ea0af'}
+  - {seq: 3, filename: KR6i0522_003.yaml, hash: 'sha256:157b7398bdea7be9383d721e1395cf37b7eb96f9c8cfca8a770ef955d4570147'}
+  - {seq: 4, filename: KR6i0522_004.yaml, hash: 'sha256:09fdefd288bf6b2b00c27f1f47253f616d6d6636806f3a0c4cc245e76df6dd36'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0522_000.markers.yaml, hash: 'sha256:c695e32f0b4308c2f05af1556e66f118f2742ec9137bd7b7dcaf5348220aa58f'}
-  - {seq: 1, role: markers, filename: assets/KR6i0522_001.markers.yaml, hash: 'sha256:b15f9c89ec933a587c46bd92667523b369a94d84bd65da0803a380a4c3c702ea'}
-  - {seq: 2, role: markers, filename: assets/KR6i0522_002.markers.yaml, hash: 'sha256:5c8e0e5f4a0572150400cd02fdf3db3d55b78a2d9bb605e1385eee93da3ff5c7'}
-  - {seq: 3, role: markers, filename: assets/KR6i0522_003.markers.yaml, hash: 'sha256:470a791e82cce5aa450ea5ac5bd100aff27fbb1fb2bc0777c6734274fa446c45'}
-  - {seq: 4, role: markers, filename: assets/KR6i0522_004.markers.yaml, hash: 'sha256:1ade78f17ddfceda26ca90ba3fbc64c883778b49ad0962fc1466e7067db800cc'}
+  - {seq: 1, role: markers, filename: assets/KR6i0522_001.markers.yaml, hash: 'sha256:6073e7f9d4afef04394b40b993c690dfcdcdecf26c8838e2186abaaec9efb923'}
+  - {seq: 2, role: markers, filename: assets/KR6i0522_002.markers.yaml, hash: 'sha256:fb06bb5c7d1229b9f1cdd050ea3146fb061bdebfd1c5ca4605fe7740fb0a2458'}
+  - {seq: 3, role: markers, filename: assets/KR6i0522_003.markers.yaml, hash: 'sha256:7b61784465262c3cdd904ea610a88c0ab0c0c9c96c6171f20231796174af9229'}
+  - {seq: 4, role: markers, filename: assets/KR6i0522_004.markers.yaml, hash: 'sha256:b41d758bed42ebbd632e983dec7e2b7ae1bb7e327f46c64f338594cbae087d55'}
 table_of_contents:
 - ref:
     seq: 1
@@ -94,4 +94,7 @@ table_of_contents:
   label: 佛說道神足無極變化經卷第四
   type: juan
   level: 1
-hash: sha256:9d56bb5c5d48af0db4276a7d44ce7fd9ac20fd682864491cb540d403a3cb8d63
+hash: sha256:f1e023fb09f0dbdb7cfda7440b41ee4a918b43b67df941fedde4923d450e938a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
